@@ -14,7 +14,7 @@ const Welcome = () => {
         </p>
       </div>
       <div className="misc">
-        <ul className="skills>
+        <ul className="skills">
           <li className="skills-item">HTML5 / CSS3</li>
           <li className="skills-item">JavaScript (React, UI5)</li>
           <li className="skills-item">TypeScript (Ionic React)</li>
