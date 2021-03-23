@@ -1,9 +1,32 @@
-- 👋 Hi, I’m @skitzcod4
-- 👀 I’m interested in JavaScript (Web Development in general)
-- 🌱 I’m currently learning building mobile apps with Ionic (React) and therefore I'm learning TypeScript
-- 📫 You can reach me [here](justinprassl.de).
+```javascript
+import skitz from 'skitzcod4'
 
-<!---
-skitzcod4/skitzcod4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+const Welcome = () => {
+  return (
+    <div className="welcome">
+      <div className="intro">
+        <h1 className="intro-title">Welcome to my GitHub profile! 👋🚀</h1>
+        <p className="intro-text">
+          My Name is Justin Praßl and I'm a 21 years old software developer from Germany. <br />
+          I'm focusing on web development because I have the most fun making this. <br />
+          I also create UI / UX designs in addition and I'm studying business informatics. <br />
+          Feel free to visit my <a href="https://justinprassl.de/">website</a>!
+        </p>
+      </div>
+      <div className="misc">
+        <ul className="skills>
+          <li className="skills-item">HTML5 / CSS3</li>
+          <li className="skills-item">JavaScript (React, UI5)</li>
+          <li className="skills-item">TypeScript (Ionic React)</li>
+          <li className="skills-item">PHP</li>
+          <li className="skills-item">Java & C#</li>
+          <li className="skills-item">SQL & NoSQL</li>
+          <li className="skills-item">UI / UX Design</li>
+        </ul>
+      </div>
+    </div>
+  )
+}
+
+export default Welcome
+```
