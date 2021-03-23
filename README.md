@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skitzcod4
 - 👀 I’m interested in JavaScript (Web Development in general)
-- 🌱 I’m currently learning building mobile apps with Ionic (React) and therefore TypeScript
+- 🌱 I’m currently learning building mobile apps with Ionic (React) and therefore I'm learning TypeScript
 - 📫 You can reach me [here](justinprassl.de).
 
 <!---
