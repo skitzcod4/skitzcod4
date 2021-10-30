@@ -17,7 +17,7 @@ const Welcome = () => {
       <div className="misc">
         <ul className="skills">
           <li className="skills-item">HTML5 & CSS3</li>
-          <li className="skills-item">JavaScript (NodeJS, React, UI5) & PHP</li>
+          <li className="skills-item">JavaScript (NodeJS, React, Next, Svelte, UI5) & PHP</li>
           <li className="skills-item">Java & C#</li>
           <li className="skills-item">SQL (Oracle, MariaDB & MySQL) & NoSQL (Mongo & Redis)</li>
           <li className="skills-item">REST- & GraphQL APIs</li>
