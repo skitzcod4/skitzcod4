@@ -7,7 +7,7 @@ const Welcome = () => {
       <div className="intro">
         <h1 className="intro-title">Welcome to my GitHub profile! 👋🚀</h1>
         <p className="intro-text">
-          My Name is Justin Praßl and I'm a 22 years old software developer from Germany. <br />
+          My Name is Justin Praßl and I'm a 23 years old software developer from Germany. <br />
           I'm focusing on web development because I have the most fun making this, therefore I work <br />
           for a consulting company as a frontend developer (consultant) specialized in making UI5 frontends. <br />
           I also create UI / UX designs in addition and I'm studying business informatics. <br />
